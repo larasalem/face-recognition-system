@@ -1,5 +1,5 @@
-# import create_person_group
-# create_person_group
+import create_person_group
+create_person_group
 
 import register_new_employee
 register_new_employee
