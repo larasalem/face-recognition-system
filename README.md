@@ -2,6 +2,7 @@
 face recognition system, using python and Microsoft azure face API service.
 
 By Lara Almarayeh
+
 Majd Sanajleh
 
 After you get a key from your Azure Face API subscription or resource, create environment variables for the key and endpoint, named FACE_SUBSCRIPTION_KEY and FACE_ENDPOINT, respectively.
