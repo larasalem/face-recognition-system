@@ -1,5 +1,6 @@
 # User - Guide / face-recognition-system
 face recognition system, using python and Microsoft azure face API service.
+
 By Lara Almarayeh
 Majd Sanajleh
 
